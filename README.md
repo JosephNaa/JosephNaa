@@ -46,9 +46,11 @@ Here are some ideas to get you started:
 
 <br>
 
-<h3 align="center">📌 Contact 📌 </h3>
+<h3 align="center">📌 About ME 📌 </h3>
 <p align="center">
-  <a href="mailto:js.pekah@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>
+  <a href="mailto:js.pekah@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=js.pekah@gmail.com"/></a>
+  <a href="https://pekahblog.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-97979A?style=flat-square&logo=Tidal&logoColor=white&link=https://pekahblog.tistory.com/"/></a>
+  <a href="https://www.notion.so/a54812b00eb446bab3775bdfd8a1e7cd"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/a54812b00eb446bab3775bdfd8a1e7cd"/></a>
 </p>
 
 <br>
