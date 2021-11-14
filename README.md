@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="mailto:js.pekah@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=js.pekah@gmail.com"/></a>
   <a href="https://pekahblog.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-97979A?style=for-the-badge&logo=Tidal&logoColor=white&link=https://pekahblog.tistory.com/"/></a>
-  <a href="https://www.notion.so/a54812b00eb446bab3775bdfd8a1e7cd"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/a54812b00eb446bab3775bdfd8a1e7cd"/></a>
+<!--   <a href="https://www.notion.so/a54812b00eb446bab3775bdfd8a1e7cd"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/a54812b00eb446bab3775bdfd8a1e7cd"/></a> -->
 </p>
 
 <br><br>
